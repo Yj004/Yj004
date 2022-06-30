@@ -2,7 +2,7 @@
 -     but its oky ...
 - 👀 I’m not interested in basketball,hockey,tennis , etc
 - 🌱 I’m not currently learning biology,chemistry,english etc
-- # I’m looking to collaborate on -----> i commented this line
+-       # I’m looking to collaborate on -----> i commented this line
 - 📫 How to reach me ---->127.0.0.1
 
 <!---
