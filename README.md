@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Devops & Cloud Projects**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/yashjeet-singh-37a4a9202/](https://www.linkedin.com/in/yashjeet-singh-37a4a9202/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/yashjeet-singh/](https://www.linkedin.com/in/yashjeet-singh/)
 
 - 📫 How to reach me **work.yashjeet@gmail.com**
 
